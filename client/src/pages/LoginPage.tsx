@@ -4,7 +4,7 @@ import { GraduationCap, Mail, Lock, ArrowLeft } from "lucide-react";
 import toast from "react-hot-toast";
 import { loginUser } from "../services/auth.service";
 import { useAuth } from "../context/AuthContext";
-import { images } from "../data/Content";
+import { images } from "../data/content";
 
 export default function LoginPage() {
   const [email, setEmail] = useState("");

@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { quotesContent } from "../data/Content";
+import { quotesContent } from "../data/content";
 import { Quote, ChevronLeft, ChevronRight } from "lucide-react";
 
 export default function QuotesSection() {

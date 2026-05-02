@@ -1,4 +1,4 @@
-import { topRecruiters, deptPlacements, images } from "../data/Content";
+import { topRecruiters, deptPlacements, images } from "../data/content";
 import { TrendingUp } from "lucide-react";
 
 export default function HiringStatsSection() {

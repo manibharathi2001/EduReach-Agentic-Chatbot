@@ -1,4 +1,4 @@
-import { aboutContent, images } from "../data/Content";
+import { aboutContent, images } from "../data/content";
 
 export default function AboutSection() {
   return (

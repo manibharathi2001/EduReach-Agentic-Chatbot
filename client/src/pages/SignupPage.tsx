@@ -5,7 +5,7 @@ import { GraduationCap, User, Mail, Lock, Phone, ArrowLeft } from "lucide-react"
 import toast from "react-hot-toast";
 import { registerUser } from "../services/auth.service";
 import { useAuth } from "../context/AuthContext";
-import { images } from "../data/Content";
+import { images } from "../data/content";
 
 export default function SignupPage() {
   const [name, setName] = useState("");

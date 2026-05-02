@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom";
-import { images } from "../data/Content";
+import { images } from "../data/content";
 import { PhoneCall } from "lucide-react";
 import { useAuth } from "../context/AuthContext";
 

@@ -1,5 +1,5 @@
 import { useEffect, useRef } from "react";
-import { mentorsContent } from "../data/Content";
+import { mentorsContent } from "../data/content";
 
 interface MentorsSectionProps {
   onReachMentors?: () => void;

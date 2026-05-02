@@ -1,5 +1,5 @@
 import { GraduationCap, Mail, Phone, MapPin } from "lucide-react";
-import { contactInfo } from "../data/Content";
+import { contactInfo } from "../data/content";
 
 export default function Footer() {
   return (

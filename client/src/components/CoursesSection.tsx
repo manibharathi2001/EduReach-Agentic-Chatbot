@@ -1,4 +1,4 @@
-import { coursesContent, images } from "../data/Content";
+import { coursesContent, images } from "../data/content";
 import { BookOpen, Users } from "lucide-react";
 
 export default function CoursesSection() {

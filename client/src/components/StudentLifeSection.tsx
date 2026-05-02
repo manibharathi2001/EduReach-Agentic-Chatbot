@@ -1,4 +1,4 @@
-import { campusFeatures } from "../data/Content";
+import { campusFeatures } from "../data/content";
 
 export default function StudentLifeSection() {
   return (

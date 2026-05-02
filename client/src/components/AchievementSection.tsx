@@ -1,4 +1,4 @@
-import { achievementsContent } from "../data/Content";
+import { achievementsContent } from "../data/content";
 
 export default function AchievementsSection() {
   return (

@@ -1,4 +1,4 @@
-import { eventsGallery } from "../data/Content";
+import { eventsGallery } from "../data/content";
 
 const EventsGallery = () => (
   <section className="py-20 bg-white">
